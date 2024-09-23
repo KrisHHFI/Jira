@@ -40,4 +40,11 @@
 <details>
 <summary>Board</summary>
 
+- The screenshot below shows the inital Projext X board
+- All of the child issues can be seen in a chronological list going down the page (the list continues off screen)
+
+<img src="InitialBoard.png"/>
+
+<br>
+
 </details>
