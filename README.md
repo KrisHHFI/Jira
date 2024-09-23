@@ -6,7 +6,7 @@
 
 - In this repository I will document different tasks being perfomed in Jira
 
-<br>
+---
 
 ## Project X
 
