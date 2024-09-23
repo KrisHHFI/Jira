@@ -4,17 +4,23 @@
 
 ## About
 
-- In this repository I will document certain tasks being perfomed in Jira
+- In this repository I will document different tasks being perfomed in Jira
 
 <br>
 
 ## Project X
 
-### About
+<details>
+<summary>About</summary>
+  
 - Project X is a fictional app development project
 - The project is oriented around a small team of developers
 
-### Timeline
+</details>
+
+<details>
+<summary>Timeline</summary>
+
 - The screenshot below shows the Jira project timeline
 - The project is divided into 5 different epics, with each one representing a different stage in the project
 - Each epic is dependent on the previous one being completed beforehand
@@ -28,4 +34,7 @@
 - Some must be completed in order, while some occur simultaneously
   
 <img src="ProjectXTimeLineExpanded.png"/>
+
+</details>
+
 
