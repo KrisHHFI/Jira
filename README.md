@@ -8,4 +8,24 @@
 
 <br>
 
-## T do
+## Project X
+
+### About
+- Project X is a fictional app development project
+- The project is oriented around a small team of developers
+
+### Timeline
+- The screenshot below shows the Jira project timeline
+- The project is divided into 5 different epics, with each one representing a different stage in the project
+- Each epic is dependent on the previous one being completed beforehand
+  
+<img src="ProjectXTimeLine.png"/>
+
+<br>
+
+- The screenshot below shows the same project timeline with the epics expanded
+- Each epic has multiple child issues
+- Some must be completed in order, while some occur simultaneously
+  
+<img src="ProjectXTimeLineExpanded.png"/>
+
