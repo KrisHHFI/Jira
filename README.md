@@ -27,7 +27,7 @@
   
 <img src="ProjectXTimeLine.png"/>
 
-<br>
+<br><br>
 
 - The screenshot below shows the same project timeline with the epics expanded
 - Each epic has multiple child issues
