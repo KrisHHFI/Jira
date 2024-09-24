@@ -47,11 +47,16 @@
 <details>
 <summary>Board</summary>
 
-- The screenshot below shows the inital Projext X board
+- The screenshot below shows the inital Project X board
 - All of the child issues can be seen in a chronological list going down the page (the list continues off screen)
 
 <img src="InitialBoard.png"/>
 
-<br>
+<br><br>
+
+- The screenshot below shows the board while the project is in progress
+- Some of the tasks have been completed, one is ongoing and the others are still waiting
+
+<img src="ProjectXBoardInProgress.png"/>
 
 </details>
