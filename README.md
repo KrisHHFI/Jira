@@ -35,6 +35,13 @@
   
 <img src="ProjectXTimeLineExpanded.png"/>
 
+<br><br>
+
+- The screenshot below shows the timeline while the project is under way
+- The Plan epic has been finished and the Design epic is mid way
+  
+<img src="ProjectXTimelineInProgress.png"/>
+
 </details>
 
 <details>
